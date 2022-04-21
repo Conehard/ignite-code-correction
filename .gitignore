@@ -1,1 +1,5 @@
 node_modules
+.idea/.gitignore
+.idea/ignite-code-correction.iml
+.idea/modules.xml
+.idea/vcs.xml
